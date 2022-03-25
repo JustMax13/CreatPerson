@@ -1,0 +1,15 @@
+D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\Lesson_62.exe
+D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\Lesson_62.deps.json
+D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\Lesson_62.runtimeconfig.json
+D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\Lesson_62.dll
+D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\ref\Lesson_62.dll
+D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\Lesson_62.pdb
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.csproj.AssemblyReference.cache
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.AssemblyInfoInputs.cache
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.AssemblyInfo.cs
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.csproj.CoreCompileInputs.cache
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.dll
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\ref\Lesson_62.dll
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.pdb
+D:\source\repos\Lesson_62\Lesson_62\obj\Debug\net6.0\Lesson_62.genruntimeconfig.cache

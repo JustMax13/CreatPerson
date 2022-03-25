@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lesson_62</id>
+    <version>1.0.0</version>
+    <authors>Lesson_62</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\Lesson_62.runtimeconfig.json" target="lib\net6.0\Lesson_62.runtimeconfig.json" />
+    <file src="D:\source\repos\Lesson_62\Lesson_62\bin\Debug\net6.0\Lesson_62.dll" target="lib\net6.0\Lesson_62.dll" />
+  </files>
+</package>
